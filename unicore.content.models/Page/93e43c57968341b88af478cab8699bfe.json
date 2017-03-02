@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "10087c3765c64efba86ab256ff5e18f8", 
   "published": null, 
-  "position": 2, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "local-youth-network", 
   "uuid": "93e43c57968341b88af478cab8699bfe"

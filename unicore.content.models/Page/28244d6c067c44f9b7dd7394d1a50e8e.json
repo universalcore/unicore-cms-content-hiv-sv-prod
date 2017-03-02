@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "899d16f023d746a18d8f3e0afe529864", 
   "published": null, 
-  "position": 9, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "does-having-hiv-mean-you-are-going-die", 
   "uuid": "28244d6c067c44f9b7dd7394d1a50e8e"
